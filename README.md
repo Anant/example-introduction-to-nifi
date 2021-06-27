@@ -4,15 +4,19 @@ The purpose of this walkthrough is to a be simple introduction to Apache Nifi an
 
 We will be using Gitpod for this walkthrough so that anyone can follow along without having to worry about OS incompatibilities. Hit the button below to get started!
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/Anant/example-introduction-to-nifi) 
 
-1. Download Apache Nifi
+# Walkthrough
+
+
+## 1. Download Apache Nifi
 ```bash
 curl -L -s https://mirrors.advancedhosters.com/apache/nifi/1.13.2/nifi-1.13.2-bin.tar.gz | tar xvz -C /workspace/example-introduction-to-nifi
 ```
 
-2. Start Apache Nifi
+## 2. Start Apache Nifi
 ```bash
 ./nifi-1.13.2/bin/nifi.sh start
 ```
 
-3. Open Port 8080 in Browser
+## 3. Open Port 8080 in Browser
