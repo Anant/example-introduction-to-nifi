@@ -4,7 +4,7 @@ The purpose of this walkthrough is to a be simple introduction to Apache Nifi an
 
 We will be using Gitpod for this walkthrough so that anyone can follow along without having to worry about OS incompatibilities. Hit the button below to get started!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/Anant/example-introduction-to-nifi) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Anant/example-introduction-to-nifi) 
 
 # Walkthrough
 
